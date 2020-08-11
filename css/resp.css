@@ -77,7 +77,7 @@
         height: 100% !important;
     }
     html body .kitchen {
-        height: 1200px !important;
+        height: 1250px !important;
         top: 1482px !important;
         width: 100%;
         clip-path: polygon(50% 2%, 100% 0, 100% 100%, 0 100%,0 0);
@@ -147,7 +147,7 @@ margin: 0 auto;
             top: 472px;
         }
         html body .footer {
-            top: 2646px;
+            top: 2690px;
             height: 305px;
         }
         .connection {
@@ -177,7 +177,7 @@ margin: 0 auto;
             padding: 0;
         }
         .clock {
-            top: 2970px;
+            top: 3010px;
             font-size: 0.57rem;
             height: 35px;
         }
